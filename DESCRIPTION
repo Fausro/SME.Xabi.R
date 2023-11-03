@@ -1,0 +1,18 @@
+Package: SME.Xabi
+Title: Paquete con las Funciones de SME
+Version: 0.0.1
+Author: Xabier Larrayoz [aut]
+Maintainer: Xabier Larrayoz <xabier.larrayoz@ehu.eus>
+Suggests: ggplot2, reshape2
+Collate:
+  discretizacion.R 
+  metricas.R
+  escala.R 
+  filtrado.R 
+  cor_im_pares.R 
+  plots.R
+Description: Este paquete implementa las funciones que se solicitaban y algunas funcionalidades adicionales.
+License: GPL (>= 2)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
